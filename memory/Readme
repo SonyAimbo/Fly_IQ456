@@ -1,0 +1,5 @@
+Флеш память (N5XZMB) kmn5x000zm-b209
+
+Найти на хабе MemoryDeviceList_MT65хх.xls с таким же флешем как у вас 
+В файл custom_MemoryDevice.h по пути /mediatek/custom/проект/preloader/inc
+добавить вашу флеш память
