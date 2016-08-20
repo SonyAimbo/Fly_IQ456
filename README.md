@@ -4,18 +4,22 @@
 Это уже рабочии драйвера для 456. Репозиторий будет обновляться.
 
 /* Драйвера экрана */
+
 CUSTOM_KERNEL_LCM = ili9806c_wvga_dsi_vdo
 CUSTOM_LK_LCM = ili9806c_wvga_dsi_vdo
 CUSTOM_UBOOT_LCM = ili9806c_wvga_dsi_vdo
 
 /* Драйвера тача */
+
 CUSTOM_KERNEL_TOUCHPANEL = ft6306
 
 /* Размер экрана */
+
 LCM_HEIGHT = 854 // 0x356
 LCM_WIDTH = 480 // 0x1E0
 
 /* TPD */
+
 0x01:139:55:900:110:50:0x01:172:240:900:110:50:0x01:158:424:900:110:50
 
 /* Исходники */
